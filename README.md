@@ -3,19 +3,19 @@
 
 Termux安装hackerCameraTool执行命令：
 
-apt-get install python3
+$ apt-get install python3
 
-apt-get install git
+$ apt-get install git
 
-git clone https://github.com/HeiKeNanGuaJun1231494949/hackerCameraTool
+$ git clone https://github.com/HeiKeNanGuaJun1231494949/hackerCameraTool
 
-pip3 install requests
+$ pip3 install requests
 
-pip3 install colorama
+$ pip3 install colorama
 
-cd hackerCameraTool
+$ cd hackerCameraTool
 
-python3 hackerCameraTool.py
+$ python3 hackerCameraTool.py
 
 提示：别忘打开VPN软件再执行命令，不然工具就无法使用了，如果没有VPN软件的，VPN软件下载地址：https://wws.lanzouw.com/iMAXasbk1qb 密码:dqfi
 
